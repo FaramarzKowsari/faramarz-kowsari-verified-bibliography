@@ -15,11 +15,10 @@ Verified Bibliography & Authorship Portfolio, 1997–2026
 </p>
 
 <p align="center">
-  <a href="./Faramarz-Kowsari-Verified-Bibliography-1997-2026.pdf">
-    <strong>Download or Read the Complete PDF — Free</strong>
+  <a href="https://github.com/FaramarzKowsari/faramarz-kowsari-verified-bibliography/releases/latest/download/Faramarz-Kowsari-Verified-Bibliography-1997-2026.pdf">
+    <strong>Download the Complete Book PDF — Free</strong>
   </a>
 </p>
-
 ---
 
 ## About This Book
@@ -81,7 +80,6 @@ It does not replace the original Persian publications. Instead, it creates an in
 ## Free PDF
 
 The complete first edition is available free of charge for personal reading, research, professional verification, and bibliographic reference.
-
 
 ### [Download the Complete Book PDF — Free](https://github.com/FaramarzKowsari/faramarz-kowsari-verified-bibliography/releases/latest/download/Faramarz-Kowsari-Verified-Bibliography-1997-2026.pdf)
 
