@@ -82,7 +82,8 @@ It does not replace the original Persian publications. Instead, it creates an in
 
 The complete first edition is available free of charge for personal reading, research, professional verification, and bibliographic reference.
 
-### [Download the Complete Book PDF](./Faramarz-Kowsari-Verified-Bibliography-1997-2026.pdf)
+
+### [Download the Complete Book PDF — Free](https://github.com/FaramarzKowsari/faramarz-kowsari-verified-bibliography/releases/latest/download/Faramarz-Kowsari-Verified-Bibliography-1997-2026.pdf)
 
 ## Author
 
